@@ -37,3 +37,5 @@ For a visual representation of this architecture, refer to the diagram below:
 
 This architecture ensures that the application remains responsive, reliable, and capable of handling growth as user demand increases.
 
+**Note:** This project is a showcase for learning Terraform and demonstrating the implementation of AWS services using Infrastructure as Code (IaC). The setup serves as an educational example and may be used to explore and practice Terraform skills.
+
