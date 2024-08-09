@@ -23,7 +23,8 @@ This architecture is designed to deliver a highly available and scalable web app
 For a visual representation of this architecture, refer to the diagram below:
 
 
-![chatuml-diagram (3)](https://github.com/user-attachments/assets/d7c4aea9-feae-4f56-9a25-ac4011be5a80)
+![chatuml-diagram (4)](https://github.com/user-attachments/assets/c040cb2c-b86a-442c-a1c7-1a9131fc7b25)
+
 
 
 
