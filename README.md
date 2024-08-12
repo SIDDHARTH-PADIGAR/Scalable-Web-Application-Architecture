@@ -25,8 +25,7 @@ For a visual representation of this architecture, refer to the diagram below:
 
 ![chatuml-diagram (4)](https://github.com/user-attachments/assets/c040cb2c-b86a-442c-a1c7-1a9131fc7b25)
 
-
-
+In the real-world scenario, three identical environments will be deployed, serving as one for development (this is a sandbox environment where developers write, test, and iterate their code), another one for staging (used for final testing and user acceptance testing before being pushed to production), and finally the production environment (the final iteration of the architecture which will be used to run the actual product/output).
 
 ### How It Works
 
